@@ -1,0 +1,130 @@
+Java:
+=====
+
+
+Lanaguage:
+===========
+
+	communication with human
+		english--26,telugu,
+
+Programming Lanaguages:
+=====================
+
+	communication with machine
+
+	c,c++,python,java,.net......
+	
+mouse,ac/tv remote,laptop....software
+	
+software/app -->it's set of programs
+
+program -->set of instructions
+			
+	Programming Language
+			
+	
+keywords
+	30+ True,False,
+	50+ lowercase
+
+B,BCPL,C,c++,Photon,cobol,java,python,.net.....
+
+
+JAVA-->JDK download OOP-->
+	java-->static typed pl
+	python-->dynamic typed pl
+	Javascript->let/var/const name="cts"
+	typescript-->static/dynamic	var name:string="cts"
+	25  LTS
+		
+		platform independent-->
+		Garbage Collection -->garbage collector
+
+	
+
+			Welcome.java
+
+		...
+		...
+		...	
+			compilation-->compiler
+		...
+
+			welcome.class
+
+					-->JVM
+
+			....execute
+	
+		sun micro system
+		-->oracle  -->james gosling
+identifiers:
+=============
+	any name in java will call it as identifier
+
+	var name,class name,method name,object,interface name
+	
+	a-z
+	A-Z
+	0-9
+	$
+	_
+
+variables:
+==========
+	contactname=99999999	
+	local -->with int the methodn or block
+	global-->outside the block /method inside the class
+
+	datatype varname=value;
+
+datatypes:
+===========	
+	PDT 		NPDT		
+	8		String,array,object..	
+
+	
+byte	1 byte    -128 to 127
+short   2 bytes  -32768 to 32767
+int	4 bytes	 -2147483648 to 2147483647			byte age=32
+long	8 bytes	 -2 power 63 to (2 power 63) -1			long contact=9494949949;
+
+float	4 bytes   float salary=23.67628246399f; 5-6
+double	8 bytes		double --> 14-15
+
+char	2 bytes	 english-->ASCII /Unicode  18   A-65,a-97  'm'	'f'
+boolean	1 bit	true,false
+
+
+flow control:
+============
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
